@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Pienas",
+        "quantity": "1L",
+        "price": "2eur",
+        "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_480,q_auto,w_480/d_ecommerce:backend-fallback.png/MAT_212915_PCE_LT"
+    },
+    {
+        "id": 2,
+        "title": "Duona",
+        "quantity": "1vnt.",
+        "price": "1eur",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Juoda_duona.JPG/1280px-Juoda_duona.JPG"
+    },
+    {
+        "id": 3,
+        "title": "Ryžiai",
+        "quantity": "1kg",
+        "price" : "1eur",
+        "imageUrl": "https://www.world-grain.com/ext/resources/2022/10/25/Rice_AdobeStock_64819529_E.jpg?t=1666706505&width=1080"  
+    },
+    {
+        "id": 4,
+        "title": "Sultys",
+        "quantity": "2L",
+        "price" : "2eur",
+        "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_480,q_auto,w_480/d_ecommerce:backend-fallback.png/MAT_176411_PCE_LT"  
+    },
+    {
+        "id": 5,
+        "title": "Bulvės",
+        "quantity": "1kg",
+        "price" : "1eur",
+        "imageUrl": "https://cdn.mos.cms.futurecdn.net/iC7HBvohbJqExqvbKcV3pP-1200-80.jpg.webp"
+    },
+    {
+        "id": 6,
+        "title": "",
+        "quantity": "",
+        "price" : "",
+        "imageUrl": ""
+    }
+]
