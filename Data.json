@@ -1,44 +1,37 @@
 [
     {
         "id": 1,
-        "title": "Pienas",
-        "quantity": "1L",
-        "price": "2eur",
-        "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_480,q_auto,w_480/d_ecommerce:backend-fallback.png/MAT_212915_PCE_LT"
+        "title": "Dingo šuo",
+        "description": "mažas rudas pudelis, pabėgo iš namų lapkričio 7d. Atsiliepe į vardą Rikis. Prašau turinti bet kokia naudingą informaciją susisiekti",
+        "imageUrl": "https://www.pawtracks.com/wp-content/uploads/sites/2/2022/02/brown-poodle-sitting-by-window.jpg?fit=1024%2C1024&p=1",
+        "author": "Unknown"
     },
     {
         "id": 2,
-        "title": "Duona",
-        "quantity": "1vnt.",
-        "price": "1eur",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Juoda_duona.JPG/1280px-Juoda_duona.JPG"
+        "title": "Toyota Auris",
+        "description": "Toyota Auris 2011m. 1.4 dyz. mechaninė pavarų dėžė. Nuo 16€ Vid. kuro sąnaudos 5l VW Passat 2009m. 2.0 dyz. universalas, automatinė pavarų dėžė. Kaina:Nuo 16€ Vid. kuro sąnaudos 6l Galimas pristatymas į sutartą vietą. Vilniaus m. pristatymas nemokamas Nėra ridos apribojimų.",
+        "imageUrl": "https://toyotaplus.toyota.lt/picserver1/userdata/1/30031/WheTvhdkDvVDtN/xxl_kfz85527720_60674_66608_dsc05231.jpg",
+        "author": "Unknown"
     },
     {
         "id": 3,
-        "title": "Ryžiai",
-        "quantity": "1kg",
-        "price" : "1eur",
-        "imageUrl": "https://www.world-grain.com/ext/resources/2022/10/25/Rice_AdobeStock_64819529_E.jpg?t=1666706505&width=1080"  
+        "title": "Superku automobilius",
+        "description": "Superkame įvairius automobilius. Automobiliai gali būti su įvairiais defektais: Tvarkingi p0401 Netvarkingi Daužti Surudiję Draudimo nurašyti. (Reikalui esant galime išrašyti sunaikino pažymą) ko Jums atsibodę Be Tech apžiūros, draudimo Bei kitų įvairių defektu. Dokumentus sutvarkome vietoje. Išsivežame patys jums rūpintis nereikės niekuom.Palikite šį rūpestį mums! Ir taip pat Atsiskaitome iškarto vietoje. Skambinkite ir mes tikrai susitarsime.! Laukiame jūsų pasiūlymų. Pasiūlysime jums pačią geriausią kainą!",
+        "imageUrl": "https://skelbiu-img.dgn.lt/1_18_3040213187/superkame-automobilius.jpg",
+        "author": "Unknown"    
     },
     {
         "id": 4,
-        "title": "Sultys",
-        "quantity": "2L",
-        "price" : "2eur",
-        "imageUrl": "https://rimibaltic-res.cloudinary.com/image/upload/b_white,c_fit,f_auto,h_480,q_auto,w_480/d_ecommerce:backend-fallback.png/MAT_176411_PCE_LT"  
+        "title": "Ieškomi kurjeriai",
+        "description": "Jeigu esi dinamiškas (-a), gali pasigirti žaibiška reakcija, nemėgsti sėdėti vienoje vietoje, be automobilio neįsivaizduoji savo gyvenimo – Susipažinkime ! Ar tikrai moterys vairuoja blogiau nei vyrai? Kviečiame prie komandos prisijungti merginas ir paneigti šį mitą!",
+        "imageUrl": "https://skelbiu-img.dgn.lt/1_18_3508380550/ieskomi-kurjeres-ir-kurjeriai.jpg",
+        "author": "Unknown"    
     },
     {
         "id": 5,
-        "title": "Bulvės",
-        "quantity": "1kg",
-        "price" : "1eur",
-        "imageUrl": "https://cdn.mos.cms.futurecdn.net/iC7HBvohbJqExqvbKcV3pP-1200-80.jpg.webp"
-    },
-    {
-        "id": 6,
-        "title": "",
-        "quantity": "",
-        "price" : "",
-        "imageUrl": ""
+        "title": "Skalbimo mašinų,indaplovių, kavos aparatų remontas",
+        "description": "SALVATA ® nuo 1995 m. Vilniuje ir Kaune - Tel. 8 700 800 95 - Skalbimo mašinų, indaplovių, kavos aparatų remontas džiovyklių ir kitos technikos remontas.Buitinės technikos pogarantinio serviso tarnyba su serviso centrais, bei atsarginių dalių parduotuvėmis Vilniuje ir Kaune. Daugiau kaip 25 metai versle.",
+        "imageUrl": "https://skelbiu-img.dgn.lt/1_18_3220192223/skalbimo-masinu-indaploviu-kavos-aparatu-remontas.jpg",
+        "author": "Unknown"
     }
 ]

@@ -1,19 +1,17 @@
 import React from "react";
-import { StyleSheet, Text, TouchableOpacity, Image, View } from "react-native";
+import { StyleSheet, Text, TouchableOpacity } from "react-native";
 
 
-const TouchableComponent = ({title, price, event, imageUrl}) => {
+const TouchableComponent = ({title, description, event}) => {
     return(
         <TouchableOpacity
-        style ={styles.listItem}       
+        style ={styles.listItem}
+        title = {title}
+        
         onPress = {event}
         >
-            <Image style = {styles.image} source ={{uri: imageUrl}}/>
-            <View style = {{flexDirection: 'row', alignItems: 'flex-end'}}>
-                <Text style = {styles.title}>{title}</Text>
-                <Text style = {styles.price}>{price}</Text>
-            </View>
-            
+            <Text style = {styles.title}>{title}</Text>
+            <Text style = {styles.description}>{description}</Text>
             
         </TouchableOpacity>
         
@@ -24,11 +22,11 @@ const styles  = StyleSheet.create(
         listItem: {
             alignItems: 'flex-start',
             justifyContent: 'flex-start',
-            height: 150,
-            width: 150,
+            height: 50,
+            width: 300,
             borderWidth: 1,
             borderRadius: 5,
-            padding: 5,
+            marginBottom: 5,
             borderColor: 'rgba(200,200,200,0.5)',
             borderStyle: 'solid',
         },
@@ -40,18 +38,14 @@ const styles  = StyleSheet.create(
             color: 'darkslategrey'
             
         },
-        price: {
-            marginLeft: 20,
+        description: {
+            marginLeft: 30,
             fontSize:15,
             fontWeight: '500',
             textAlign: 'center',
-            color: 'slategrey'
-        },
-        image:{
-            resizeMode: 'contain',
-            width: 100,
-            height: 100,
-        },
+            color: 'slategrey',
+            flexShrink: 1
+        }
     }
 )
 export default TouchableComponent;
